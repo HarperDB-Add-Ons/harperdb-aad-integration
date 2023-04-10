@@ -1,0 +1,16 @@
+{
+  "name": "hdbad",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lucas Santos <hello@lsantos.dev> (https://lsantos.dev/)",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@azure/msal-node": "^1.17.0",
+    "dotenv": "^16.0.3"
+  }
+}
